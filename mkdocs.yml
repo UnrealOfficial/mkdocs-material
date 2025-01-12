@@ -1,0 +1,45 @@
+site_name: 幻境技术攻略站
+site_url: https://unreal-network.tech
+theme:
+  name: material
+  logo: assets/logo.png
+  icon:
+    admonition:
+      info: material/information
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.footer
+  palette: 
+
+    # 深色模式
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: 切换至深色模式
+      primary: blue
+      accent: pink
+
+    # 浅色模式
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色模式
+      primary: blue
+      accent: pink
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  footer:
+    - '<a href="https://icp.gov.moe/?keyword=20250071" target="_blank">萌ICP备20250071号</a>'
+
+copyright: Copyright &copy; 2025 星野幻境
