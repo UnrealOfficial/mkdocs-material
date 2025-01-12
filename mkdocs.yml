@@ -2,6 +2,7 @@ site_name: 幻境技术攻略站
 site_url: https://unreal-network.tech
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/logo.png
   icon:
     admonition:
@@ -9,8 +10,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  features:
-    - navigation.footer
   palette: 
     # 自动切换
     - media: "(prefers-color-scheme)"
@@ -46,7 +45,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
-  footer:
-    - '<a href="https://icp.gov.moe/?keyword=20250071" target="_blank">萌ICP备20250071号</a>'
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://example.com/
 
 copyright: Copyright &copy; 2025 星野幻境
