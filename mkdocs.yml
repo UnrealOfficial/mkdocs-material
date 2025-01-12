@@ -12,17 +12,24 @@ theme:
   features:
     - navigation.footer
   palette: 
+    # 自动切换
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 自动切换显示模式
 
-    # 深色模式
-    - scheme: default
+    # 切换至深色模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       toggle:
         icon: material/brightness-7 
         name: 切换至深色模式
       primary: blue
       accent: pink
 
-    # 浅色模式
-    - scheme: slate
+    # 切换至浅色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/brightness-4
         name: 切换至浅色模式
