@@ -41,7 +41,7 @@ set SEGATOOLS_CONFIG_PATH=.\another_config.ini
 
 !!! note ""
 
-    **`enable`**
+    ### **`enable`**
 
     默认：`1`
 
@@ -49,7 +49,7 @@ set SEGATOOLS_CONFIG_PATH=.\another_config.ini
 
 !!! note ""
 
-    **`portNo`**
+    ### **`portNo`**
 
     默认值：`游戏特定`
 
@@ -57,7 +57,7 @@ set SEGATOOLS_CONFIG_PATH=.\another_config.ini
 
 !!! note ""
 
-    **`highBaud`**
+    ### **`highBaud`**
 
     默认：`1`
 
@@ -65,7 +65,7 @@ set SEGATOOLS_CONFIG_PATH=.\another_config.ini
 
 !!! note ""
 
-    **`gen`**
+    ### **`gen`**
 
     默认：`1`
 
@@ -79,7 +79,7 @@ set SEGATOOLS_CONFIG_PATH=.\another_config.ini
 
 !!! note ""
 
-    **`aimePath`**
+    ### **`aimePath`**
 
     默认：`DEVICE\aime.txt`
 
@@ -91,7 +91,7 @@ set SEGATOOLS_CONFIG_PATH=.\another_config.ini
 
 !!! note ""
 
-    **`aimeGen`**
+    ### **`aimeGen`**
 
     默认：`1`
 
@@ -99,7 +99,7 @@ set SEGATOOLS_CONFIG_PATH=.\another_config.ini
 
 !!! note ""
 
-    **`felicaPath`**
+    ### **`felicaPath`**
 
     默认：`DEVICE\felica.txt`
 
@@ -107,7 +107,7 @@ set SEGATOOLS_CONFIG_PATH=.\another_config.ini
 
 !!! note ""
 
-    **`felicaGen`**
+    ### **`felicaGen`**
 
     默认：`0`
 
@@ -115,7 +115,7 @@ set SEGATOOLS_CONFIG_PATH=.\another_config.ini
 
 !!! note ""
 
-    **`scan`**
+    ### **`scan`**
 
     默认：`0x0D`（VK_RETURN）
 
