@@ -4,9 +4,6 @@ theme:
   name: material
   custom_dir: overrides
   logo: assets/logo.png
-  icon:
-    admonition:
-      info: material/information
   font:
     text: Roboto
     code: Roboto Mono
