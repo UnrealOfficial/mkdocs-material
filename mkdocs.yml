@@ -4,9 +4,16 @@ theme:
   name: material
   custom_dir: overrides
   logo: assets/logo.png
+  icon:
+    admonition:
+      abstract: material/message-alert
   font:
     text: Roboto
     code: Roboto Mono
+  features:
+    - content.code.select
+    - content.code.copy
+    - content.code.annotate
   palette: 
     # 自动切换
     - media: "(prefers-color-scheme)"
@@ -37,11 +44,17 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.blocks.caption
   - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
 
 extra:
   generator: false
