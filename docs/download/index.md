@@ -51,7 +51,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-gamepad:{ .lg .middle } __URL__
+-   :material-earth:{ .lg .middle } __URL__
 
     ---
     

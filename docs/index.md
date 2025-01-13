@@ -1,6 +1,6 @@
 # 欢迎
 
-页面基于[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)构建
+本站基于和[Performai Manual](https://performai.evilleaker.com/manual/)同源的[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)框架构建。
 
 !!! info "提示"
 
