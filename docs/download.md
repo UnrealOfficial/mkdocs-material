@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 资源中心
 
 ## 汉化补丁
@@ -24,7 +28,7 @@
 
     1.0 Release 2024.10.29 23:20:03
 
-    [:octicons-arrow-right-24: 下载](https://unreal-network.tech/src/game/chusan/sdhd2.25/CHUNITHM_LUMINOUS_PLUS_CHS_PATCH_PACK_Ver.1.0_By_HoshinoUnreal.zip)
+    [:octicons-arrow-right-24: 下载](https://unreal-network.tech/download/game/chusan/sdhd2.25/CHUNITHM_LUMINOUS_PLUS_CHS_PATCH_PACK_Ver.1.0_By_HoshinoUnreal.zip)
 
 -   :material-key:{ .lg .middle } __MD5__
 
@@ -66,3 +70,4 @@
     本站资源与教程完全免费浏览及下载，请不要在网络平台购买已发布至公网的相关资源及教程以免上当受骗，如果有需要你可以将本站共享给任何人。
 
 </div>
+
