@@ -28,7 +28,7 @@ comments: true
 
     1.0 Release 2024.10.29 23:20:03
 
-    [:octicons-arrow-right-24: 下载](https://unreal-network.tech/download/game/chusan/sdhd2.25/CHUNITHM_LUMINOUS_PLUS_CHS_PATCH_PACK_Ver.1.0_By_HoshinoUnreal.zip)
+    [:octicons-arrow-right-24: 下载](download/game/chusan/sdhd2.25/CHUNITHM_LUMINOUS_PLUS_CHS_PATCH_PACK_Ver.1.0_By_HoshinoUnreal.zip)
 
 -   :material-key:{ .lg .middle } __MD5__
 

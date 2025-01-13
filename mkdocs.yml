@@ -1,5 +1,6 @@
 site_name: 幻境技术攻略站
 site_url: https://unreal-network.tech
+
 theme:
   name: material
   custom_dir: overrides
@@ -55,6 +56,10 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
+
+plugins:
+  - search
+  - awesome-pages
 
 extra:
   generator: false
